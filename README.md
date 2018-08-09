@@ -19,13 +19,20 @@ Follow all the steps from those websites:
 ## Running the tests
 
 1. Compile the program
-
-
 ```
 Use 'make' to compile the program.
 Use 'make clean' to clean all the object file.
 ```
 
+2. Run the program
+```
+Type ./mpi_implementation
+```
+
+3. Be patient
+```
+The program needs at least 2.5 days to complete all the process
+```
 ### Break down into end to end tests
 
 Explain what these tests test and why
