@@ -2,7 +2,7 @@
 It's a GPU-based program that helps to speed up the execution time of gene recombination process
 ## Getting Started
 
-Please download all the files before you test the program. It includes .....
+Please download all the files before you test the program. It includes Data, Data1, and all other source codes.
 
 ### Prerequisites
 Before you run the program, you need:
