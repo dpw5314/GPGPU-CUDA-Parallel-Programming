@@ -18,7 +18,11 @@ Follow all the steps from those websites:
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+1. Compile the program
+
+'''
+If you use the terminal, move to the directory MPI and type 'make'.
+'''
 
 ### Break down into end to end tests
 
