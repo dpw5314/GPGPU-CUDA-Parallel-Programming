@@ -22,8 +22,8 @@ Follow all the steps from those websites:
 
 
 ```
-If you use the terminal, move to the directory MPI and type 'make'.
-Use 'make clean' if you want to compile again, it will clean all the object files and also the main code.
+Use 'make' to compile the program.
+Use 'make clean' to clean all the object file.
 ```
 
 ### Break down into end to end tests
