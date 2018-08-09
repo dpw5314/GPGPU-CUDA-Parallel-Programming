@@ -34,4 +34,4 @@ Type ./mpi_implementation
 The program needs at least 2.5 days to complete all the process
 ```
 ## Purpose of this project and result
-Please see the pdf file ""
+Please see the pdf file "Group 3 - Optimization of GPU-based Implementation of V(D)J Recombination Algorithm" to understand more about this project
