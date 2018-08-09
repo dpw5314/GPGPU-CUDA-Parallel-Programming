@@ -5,30 +5,16 @@ It's a GPU-based program that helps to speed up the execution time of gene recom
 Please download all the files before you test the program. It includes .....
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Before you run the program, you need:
+1. CUDA 7.0.28 
+2. OpenMPI 1.10.2
+3. CMake
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Follow all the steps from those websites:
+1. https://developer.nvidia.com/cuda-toolkit-70 for CUDA 7.0.28
+2. https://www.open-mpi.org/software/ompi/v1.10/ for OpenMPI 1.10.2
+3. https://cmake.org/download/ for downloading the CMake
 
 ## Running the tests
 
