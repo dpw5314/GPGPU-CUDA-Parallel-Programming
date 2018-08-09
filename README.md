@@ -20,9 +20,11 @@ Follow all the steps from those websites:
 
 1. Compile the program
 
-'''
+
+```
 If you use the terminal, move to the directory MPI and type 'make'.
-'''
+Use 'make clean' if you want to compile again, it will clean all the object files and also the main code.
+```
 
 ### Break down into end to end tests
 
