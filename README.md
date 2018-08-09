@@ -33,22 +33,5 @@ Type ./mpi_implementation
 ```
 The program needs at least 2.5 days to complete all the process
 ```
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
+## Purpose of this project and result
+Please see the pdf file ""
